@@ -24,3 +24,5 @@ exclude:
   - CNAME
 
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+theme: jekyll-theme-cayman
