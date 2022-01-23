@@ -22,6 +22,6 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-cayman
+theme: Caymen-Dark
 github:
   is_project_page: false
