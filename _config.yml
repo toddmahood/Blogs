@@ -22,6 +22,6 @@ exclude:
   - README.md
   - CNAME
 
-theme: Caymen-Dark
+remote-theme: lewismiddleton/cayman-dark
 github:
   is_project_page: false
