@@ -23,3 +23,5 @@ exclude:
   - CNAME
 
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
