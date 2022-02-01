@@ -1,9 +1,7 @@
 Project:
-_Navigating the Green Book_
-
+_Navigating the Green Book_\
 Project Director(s):
-Project Director Name
-
+Brian Foo, Paul Beaudoin,\
 Project URL:
 [https://publicdomain.nypl.org/greenbook-map/index.html](https://publicdomain.nypl.org/greenbook-map/index.html)
 
