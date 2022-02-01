@@ -15,4 +15,4 @@ Project URL:
 ## 
 
 
-![Website map a trip button becomes unclickable after mistyped address](https://toddmahood.com/images/ngb-incorrect-address.gif)
+![Website map a trip button becomes unclickable after mistyped address](https://toddmahood.com/images/ngb-incorrect-address-x.gif)
