@@ -28,8 +28,6 @@ Project URL:
 
 ![Image of map on an iPhone XR; the top banner is cut off and the bottom text box is off center](https://toddmahood.com/images/ngb-mobile.png)
 
-The heatmap and cluster map does allow the viewer to clearly see the increase in locations that welcomed black travelers from the 1940’s to 1950’s. 
-
 ## Trip Planner
 &nbsp;&nbsp;&nbsp;&nbsp;The second part of the project involves mapping trips using the curated database of locations. In particular, this feature demonstrates the additional struggle black men had to go through to travel. I’d argue the app achieves its purpose, however it has a few critical shortcomings. 
 
@@ -48,5 +46,4 @@ The heatmap and cluster map does allow the viewer to clearly see the increase in
 ![Trip to Newport News leads user to Delaware](https://toddmahood.com/images/ngb-newport-news.png)
 
 ## Conclusion
-&nbsp;&nbsp;&nbsp;&nbsp;Overall, 
-
+&nbsp;&nbsp;&nbsp;&nbsp;Overall, NGB presents the information from the _Green Books_ in a new and intuitive way. The project allows users to easily draw conclusions about the effects of the segragation and the civil rights movement.
