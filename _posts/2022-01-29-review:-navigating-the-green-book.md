@@ -20,9 +20,15 @@ Project URL:
 
 ![Outline covering two clusers on the map](https://toddmahood.com/images/ngb-outline.png)
 
+&nbsp;&nbsp;&nbsp;&nbsp;I found it nice that clicking on some icons allowed the viewer to see the supporting documentation directly. I commend NGB for this, as it is important that you are able to do your own research as a user. As far as I could tell, NGB did an excellent job removing any locations that were mistakenly generated due to OCR mishaps. As I examined the website, I was unable to find a location that I couldn’t find reference to in the digitized versions of the _Green Book_.
+
+![Mouse hovering over icon brings up corresponding green book page](https://toddmahood.com/images/ngb-supporting-doc.png)
+
 &nbsp;&nbsp;&nbsp;&nbsp;Unfortunately, the website does not share the same appearance across all devices. On the majority of mobile devices, the top banner appears cut off and the bottom block of text describing the map is off center. The developer might solve this by implementing a mobile friendly framework.
 
 ![Image of map on an iPhone XR; the top banner is cut off and the bottom text box is off center](https://toddmahood.com/images/ngb-mobile.png)
+
+Nonetheless, it does allow the viewer to clearly see the increase in locations that welcomed black travelers from the 1940’s to 1950’s. 
 
 ## Trip Planning 
 
