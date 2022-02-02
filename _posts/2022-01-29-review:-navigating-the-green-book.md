@@ -9,10 +9,9 @@ Project URL:
 ![Navigating the Green Book about page](https://toddmahood.com/images/ngb-about.jpeg)
 
 ## Summary
+&nbsp;&nbsp;&nbsp;&nbsp;_Navigating the Green Book_ (NGB) is a digital humanities project that aids in the visualization of racial segregation, descrimination, and eventually the civil rights movement. The _Green Book_ series was created by Victor Green in a bid to protect black Americans as they traveled across the United States. It acted as a directory of locations where black men were safe and welcome to travel. The book was published from 1936 through 1966 following the passage of the Civil Rights Act of 1964. NGB utilizes Mapbox, Scribe, Leaflet, and Open Street Map to plot and analyze the data contained in the Green Books. By offering a new lens through which racial inequity can be viewed, Foo hopes users will critically examine their own lives and how they would be different if they were of another race.
 
-
-
-## 
+## Map Functionality
 
 
 ![Website map a trip button becomes unclickable after mistyped address and "x" button does not work](https://toddmahood.com/images/ngb-incorrect-address-x.gif)
