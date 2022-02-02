@@ -37,13 +37,16 @@ The heatmap and cluster map does allow the viewer to clearly see the increase in
 
 ![Website map a trip button becomes unclickable after mistyped address and "x" button does not work](https://toddmahood.com/images/ngb-incorrect-address-x.gif)
 
-Entering addresses that are outside the United States brings up an error message, but proceeds to attempt to map the trip anyway. This leads to a confusing map of criss-crossed lines bounding along the coast. This is especially jarring for someone that misinterpreted the instructions or failed to realize that the address they were mapping was outside the database of available addresses. Lastly, I would recommend adding a disclaimer in the box below the mapped trip. The map which the data is plotted on is a recent map and the routes provided are purely for representative purposes. It is apparent that the trip algorithm has some edge case scenarios that would yield results that aren’t representative of where a black person would travel to get to their destination. This can be seen in this map of a trip from New York, NY to Newport News, VA. The algorithm puts the user at the closest black friendly location next to their destination. In this case, the result put the user in Delaware. While this is relatively close to Newport News, it is unlikely black Americans would have traveled this route because they would’ve had to cross the Chesapeake to get to Newport News. Regardless, this functionality offers good insights and presents data from the green books in a way that is easily digestible and arguably more substantial than a simple directory that readers could index. 
+&nbsp;&nbsp;&nbsp;&nbsp;Entering addresses that are outside the United States brings up an error message, but proceeds to attempt to map the trip anyway. This leads to a confusing map of criss-crossed lines bounding along the coast. This is especially bewildering for someone that misinterpreted the instructions or failed to realize that the address they were mapping was outside the database of available addresses. 
+
+![Map of trip for an out of country address shows a jumbled up set of lines](https://toddmahood.com/images/ngb-out-of-us.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;Lastly, I would recommend adding a disclaimer in the box below the mapped trip. The map which the data is plotted on is a recent map and the routes provided are purely for representative purposes. It is apparent that the trip algorithm has some edge case scenarios that would yield results that aren’t representative of where a black person would travel to get to their destination. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;This can be seen in this map of a trip from New York, NY to Newport News, VA. The algorithm puts the user at the closest location in the database next to their destination. In this case, the result put the user in Delaware. While this is relatively close to Newport News, it is unlikely black Americans would have traveled this route because they would’ve had to cross the Chesapeake to get to Newport News. Regardless, this functionality offers good insights and presents data from the _Green Books_ in a way that is easily digestible and more substantial than a simple directory. 
+
+![Trip to Newport News leads user to Delaware](https://toddmahood.com/images/ngb-newport-news.png)
 
 ## Conclusion
-
-
-![Plot of trip for an out of country address shows a jumbled up set of lines](https://toddmahood.com/images/ngb-out-of-us.png)
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;Overall, 
 
