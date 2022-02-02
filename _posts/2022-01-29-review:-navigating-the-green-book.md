@@ -13,6 +13,9 @@ Project URL:
 
 ## Map Exploration 
 
+![Image of the map of extracted data when first loaded](https://toddmahood.com/images/ngb-first-view.png)
+
+The numerical data included within the clusters is a nice visual representation of where black Americans were more likely to travel. However, both the cluster view and heatmap view can be confusing and counterintuitive without the inclusion of a legend. Furthermore, the rendering of individual location icons (hotel, tavern, restaurant) while the map is zoomed out distracts me as a user. I would recommend th More curiously, are the outlines that enwrap the clusters. Some of these outlines overlap other outlines and don’t appear to be symmetrical in any way. As a user, this genuinely confused me. I don’t understand the need for an outline around the clusters, especially if that outline interferes with other clusters. I understand this could be a limitation of the map’s implementation, although I would most certainly advise that it be removed.
 
 ## Trip Planning 
 
@@ -24,4 +27,4 @@ Project URL:
 
 ![Image of map on an iPhone XR; the top banner is cut off and the bottom text box is off center](https://toddmahood.com/images/ngb-mobile.png)
 
-![Image of the map of extracted data when first loaded](https://toddmahood.com/images/ngb-first-view.png)
+
