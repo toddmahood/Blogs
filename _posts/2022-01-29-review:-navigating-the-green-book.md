@@ -28,13 +28,19 @@ Project URL:
 
 ![Image of map on an iPhone XR; the top banner is cut off and the bottom text box is off center](https://toddmahood.com/images/ngb-mobile.png)
 
-Nonetheless, it does allow the viewer to clearly see the increase in locations that welcomed black travelers from the 1940’s to 1950’s. 
+The heatmap and cluster map does allow the viewer to clearly see the increase in locations that welcomed black travelers from the 1940’s to 1950’s. 
 
-## Trip Planning 
+## Trip Planner
+&nbsp;&nbsp;&nbsp;&nbsp;The second part of the project involves mapping trips using the curated database of locations. In particular, this feature demonstrates the additional struggle black men had to go through to travel. I’d argue the app achieves its purpose, however it has a few critical shortcomings. 
 
+&nbsp;&nbsp;&nbsp;&nbsp;When opening the trip page you are presented with two input boxes, a box for your starting location and ending destination. The starting location input title has a small typo that reads “Enter an address U.S. address”. Ignoring cosmetic flaws, functionally speaking the app works very well if you enter your start and end destination correctly. Entering addresses incorrectly effectively blocks users from entering any additional addresses or corrections to the previous incorrect address. Moreover, the exit button in the top left corner is unclickable regardless of the validity of your address.
+
+![Website map a trip button becomes unclickable after mistyped address and "x" button does not work](https://toddmahood.com/images/ngb-incorrect-address-x.gif)
+
+Entering addresses that are outside the United States brings up an error message, but proceeds to attempt to map the trip anyway. This leads to a confusing map of criss-crossed lines bounding along the coast. This is especially jarring for someone that misinterpreted the instructions or failed to realize that the address they were mapping was outside the database of available addresses. Lastly, I would recommend adding a disclaimer in the box below the mapped trip. The map which the data is plotted on is a recent map and the routes provided are purely for representative purposes. It is apparent that the trip algorithm has some edge case scenarios that would yield results that aren’t representative of where a black person would travel to get to their destination. This can be seen in this map of a trip from New York, NY to Newport News, VA. The algorithm puts the user at the closest black friendly location next to their destination. In this case, the result put the user in Delaware. While this is relatively close to Newport News, it is unlikely black Americans would have traveled this route because they would’ve had to cross the Chesapeake to get to Newport News. Regardless, this functionality offers good insights and presents data from the green books in a way that is easily digestible and arguably more substantial than a simple directory that readers could index. 
 
 ## Conclusion
-![Website map a trip button becomes unclickable after mistyped address and "x" button does not work](https://toddmahood.com/images/ngb-incorrect-address-x.gif)
+
 
 ![Plot of trip for an out of country address shows a jumbled up set of lines](https://toddmahood.com/images/ngb-out-of-us.png)
 
