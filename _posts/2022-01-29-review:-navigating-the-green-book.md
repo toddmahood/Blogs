@@ -16,7 +16,7 @@ Project URL:
 
 ![Map of extracted data when first loaded](https://toddmahood.com/images/ngb-first-view.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;One of the things I failed to understand was the outlines that enwrap the clusters. Some of the outlines overlap other clusters and none of the outlines are similar in shape or size. Ultimately, I don't feel like they are necessary or important to the map exploration experience. I understand this could be a limitation of the map’s implementation, although I would definitely advise that it be removed if possible. 
+&nbsp;&nbsp;&nbsp;&nbsp;I was also confused by the outlines that enwrap the clusters. Some of the outlines overlap other clusters and none of the outlines are similar in shape or size. Ultimately, I don't feel like they are necessary or important to the map exploration experience. I understand this could be a limitation of the map’s implementation, although I would definitely advise that it be removed if possible. 
 
 ![Outline covering two clusers on the map](https://toddmahood.com/images/ngb-outline.png)
 
