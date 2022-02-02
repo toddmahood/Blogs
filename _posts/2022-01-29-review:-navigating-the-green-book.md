@@ -14,9 +14,15 @@ Project URL:
 ## Map Exploration 
 &nbsp;&nbsp;&nbsp;&nbsp;Upon first viewing the map, I noticed the lack of a legend and key. While the colors and icons present in the cluster map are fairly self explanatory, a key and legend would certainly enhance the usability of the map. I do, however, appreciate the numerical data included within the clusters. I think it helps the user to visualize where black Americans were more likely to travel. Admittedly, I was distracted by the individual location icons when the map was zoomed out. Instead I would reserve the rendering of icons for when the user begins to zoom in on a specific location. After further inspection, it also appears the icons (hotel, tavern, restaurant) lack alt text. This is crucial for those with visual impairments, so it is important that this is added in the future.
 
-![Image of the map of extracted data when first loaded](https://toddmahood.com/images/ngb-first-view.png)
+![Map of extracted data when first loaded](https://toddmahood.com/images/ngb-first-view.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp;More curiously, are the outlines that enwrap the clusters. Some of these outlines overlap other outlines and don’t appear to be symmetrical in any way. As a user, this genuinely confused me. I don’t understand the need for an outline around the clusters, especially if that outline interferes with other clusters. I understand this could be a limitation of the map’s implementation, although I would most certainly advise that it be removed.
+&nbsp;&nbsp;&nbsp;&nbsp;One of the things I failed to understand was the outlines that enwrap the clusters. Some of the outlines overlap other clusters and none of the outlines are similar in shape or size. Ultimately, I don't feel like they are necessary or important to the map exploration experience. I understand this could be a limitation of the map’s implementation, although I would definitely advise that it be removed if possible. 
+
+![Outline covering two clusers on the map](https://toddmahood.com/images/ngb-outline.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;Unfortunately, the website does not share the same appearance across all devices. On the majority of mobile devices, the top banner appears cut off and the bottom block of text describing the map is off center. The developer might solve this by implementing a mobile friendly framework.
+
+![Image of map on an iPhone XR; the top banner is cut off and the bottom text box is off center](https://toddmahood.com/images/ngb-mobile.png)
 
 ## Trip Planning 
 
@@ -26,6 +32,6 @@ Project URL:
 
 ![Plot of trip for an out of country address shows a jumbled up set of lines](https://toddmahood.com/images/ngb-out-of-us.png)
 
-![Image of map on an iPhone XR; the top banner is cut off and the bottom text box is off center](https://toddmahood.com/images/ngb-mobile.png)
+
 
 
