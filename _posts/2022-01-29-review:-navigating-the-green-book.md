@@ -33,7 +33,7 @@ Project URL:
 
 &nbsp;&nbsp;&nbsp;&nbsp; Entering addresses that are outside the United States brings up an error message, but the website proceeds to attempt to map the trip anyway. This leads to a confusing map of crisscrossed lines bounding along the coast. This is especially bewildering for someone that misinterpreted the instructions or failed to realize that the address they were mapping was outside the database of available addresses. 
 
-![Map of trip for an out of country address shows a jumbled up set of lines](https://toddmahood.com/images/ngb-out-of-us.png)
+![Map of trip for an out of country address](https://toddmahood.com/images/ngb-out-of-us.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp; Lastly, I would recommend adding a disclaimer in the box below the mapped trip. The map which the data is plotted on is a recent map and the routes provided are purely for representative purposes. So it is important that the user doesn't take the trip planner results at face value. It is apparent that the trip algorithm has some edge case scenarios that would yield results that aren’t representative of where an African American would travel to get to their destination. 
 
