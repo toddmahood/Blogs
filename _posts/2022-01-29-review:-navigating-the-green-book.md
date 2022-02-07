@@ -40,5 +40,6 @@ Project URL:
 &nbsp;&nbsp;&nbsp;&nbsp; This can be seen in this map of a trip from New York, NY to Newport News, VA. The algorithm places the user at the closest location in the database next to their destination. In this case, the result put the user in Maryland. While this is relatively close to Newport News, it is unlikely African Americans would have traveled this route because they would’ve had to cross the Chesapeake to get to Newport News. Regardless, this functionality offers good insights and presents data from the _Green Books_ in a way that is easily digestible and more substantial than a simple directory. 
 
 ![Trip to Newport News leads user to Maryland](https://toddmahood.com/images/ngb-newport-news.png)
+
 ## Conclusion
 &nbsp;&nbsp;&nbsp;&nbsp; Overall, NGB presents the information from the _Green Books_ in a new and intuitive way. The project allows users to easily draw conclusions about the effects of the segregation and the civil rights movement. 
