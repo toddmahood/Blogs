@@ -20,7 +20,7 @@ Project URL:
 
 ![Mouse hovering over icon brings up corresponding green book page](https://toddmahood.com/images/ngb-supporting-doc.png)
 
-&nbsp;&nbsp;&nbsp;&nbsp; Unfortunately, the website does not share the same appearance across all devices. On the majority of mobile devices, the top banner appears cut off and the bottom block of text describing the map is off center. Though this does not compromise the functionality of the website, it presents the data in a way that is less intutive than its desktop counterpart. On both the desktop and mobile website zooming out causes the data to incorrectly shift upwards. The developer might solve this by implementing a mobile friendly framework.
+&nbsp;&nbsp;&nbsp;&nbsp; Unfortunately, the website does not share the same appearance across all devices. On the majority of mobile devices, the top banner appears cut off and the bottom block of text describing the map is off center. Though this does not compromise the functionality of the website, it presents the data in a way that is less intutive than its desktop counterpart. On both the desktop and mobile website zooming out causes the data to incorrectly shift upwards. This issue is exaggerated on mobile devices though, as it is easy to accidentally zoom out when navigating the website. The developer might solve these issues by implementing a mobile friendly framework and setting a limit on the zoom capabilities.
 
 ![Image of map on an iPhone XR; the top banner is cut off and the bottom text box is off center](https://toddmahood.com/images/ngb-mobile.png)
 
