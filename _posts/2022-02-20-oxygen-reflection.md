@@ -7,6 +7,7 @@ To begin the encoding process, I used Google Docs to highlight several important
 Ultimately, I found that this activity made the actual coding process much easier and quicker than it would’ve been had I not determined what needed to be tagged first.
 
 ![Google Docs exercise highlighting tag locations](https://toddmahood.com/images/oxygen_reflection/tei-google-docs-markup.png)
+![Google Docs exercise highlighting tag locations](https://toddmahood.com/images/oxygen_reflection/tei-google-docs-markup-big.png)
 
 ## Encoding the Text
 I have had prior experience coding in Python and Java, so I wasn’t very intimidated by the thought of learning a new language. However, I had never looked at markup language syntax before and the concept of wrapping text was new to me. Fortunately, I caught on pretty quickly and was able to finish my portion of the story without too many issues. I did face some challenges as I went through the process, though.
@@ -16,4 +17,5 @@ One of the challenges I faced was determining whether or not the code I created 
 I also had to adjust to the autocomplete functionality of Oxygen editor. When I typed out tags, Oxygen would automatically add the closing tag. This caused me to make a few mistakes, but it was nothing that quick proofreading couldn’t fix.
 
 ![Oxygen editor view of xml code](https://toddmahood.com/images/oxygen_reflection/tei-oxygen-editor-view.png)
+![Oxygen editor view of xml code](https://toddmahood.com/images/oxygen_reflection/tei-oxygen-editor-view-big.png)
 
