@@ -8,6 +8,8 @@ Ultimately, I found that this activity made the actual coding process much easie
 
 ![Google Docs exercise highlighting tag locations](https://toddmahood.com/images/oxygen_reflection/tei-google-docs-markup.png)
 ![Google Docs exercise highlighting tag locations](https://toddmahood.com/images/oxygen_reflection/tei-google-docs-markup-orig.png)
+![Google Docs exercise highlighting tag locations](https://toddmahood.com/images/oxygen_reflection/tei-google-docs-exercise.png)
+
 
 ## Encoding the Text
 I have had prior experience coding in Python and Java, so I wasn’t very intimidated by the thought of learning a new language. However, I had never looked at markup language syntax before and the concept of wrapping text was new to me. Fortunately, I caught on pretty quickly and was able to finish my portion of the story without too many issues. I did face some challenges as I went through the process, though.
