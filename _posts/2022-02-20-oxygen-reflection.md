@@ -9,6 +9,7 @@ Ultimately, I found that this activity made the actual coding process much easie
 ![Google Docs exercise highlighting tag locations](https://toddmahood.com/images/oxygen_reflection/tei-google-docs-markup.png)
 ![Google Docs exercise highlighting tag locations](https://toddmahood.com/images/oxygen_reflection/tei-google-docs-markup-orig.png)
 ![Google Docs exercise highlighting tag locations](https://toddmahood.com/images/oxygen_reflection/tei-google-docs-exercise.png)
+![Google Docs exercise highlighting tag locations](https://toddmahood.com/images/oxygen_reflection/tei-google-docs-2.png)
 
 
 ## Encoding the Text
