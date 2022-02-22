@@ -12,7 +12,8 @@ Ultimately, I found that this activity made the actual coding process much easie
 I have had prior experience coding in Python and Java, so I wasn’t very intimidated by the thought of learning a new language. However, I had never looked at markup language syntax before and the concept of wrapping text was new to me. Fortunately, I caught on pretty quickly and was able to finish my portion of the story without too many issues. I did face some challenges as I went through the process, though.
 
 ```xml
-<q>Walpurgis nacht.</q><note>The antipode of Halloween, Walpurgis nacht occurs on May 1st. According to tradition, the evil spirits of winter have a last gathering of the year before spring reigns victorious. The name comes from Walpurga, Abbess of Heidenheim, a Catholic saint, who was seen as a protectress against witchcraft.</note>```
+<q>Walpurgis nacht.</q><note>The antipode of Halloween, Walpurgis nacht occurs on May 1st. According to tradition, the evil spirits of winter have a last gathering of the year before spring reigns victorious. The name comes from Walpurga, Abbess of Heidenheim, a Catholic saint, who was seen as a protectress against witchcraft.</note>
+```
 
 One of the challenges I faced was determining whether or not the code I created did what it was supposed to do. The editor does have a box in the upper right corner of the window to show if the document is valid. Although, as I know from my previous experience with Java and Python, just because your code is syntactically correct doesn’t mean it is without bugs or that it even accomplishes the goal for which it was created. Oxygen’s solution to this problem is their “Author” view, however I lacked the knowledge of how several tags were supposed to appear in their rendered form which made this feature less useful for me. 
 
