@@ -4,7 +4,7 @@
 ## Google Docs Exercise
 &nbsp;&nbsp;&nbsp;&nbsp; To get ready to code, I used Google Docs to highlight several important features of my text. For this project, XML was used to denote visible characteristics of the text. This is important because we want the text to be properly formatted when it is displayed digitally. During the exercise, I was looking for paragraphs, quotes, page breaks, em-dashes, titles, inscriptions, and addresses. In my specific section, I noted the use of several quotes. All quotes were either questions or responses to questions. This demonstrates the inquisitive nature of the Englishman and supports the idea that he is an abnormally curious character.
 
-![Google Docs exercise highlighting tag locations](https://toddmahood.com/images/oxygen_reflection/tei-google-docs-exercise.png)
+![Google Docs exercise highlighting tag locations](https://dh.toddmahood.com/images/oxygen_reflection/tei-google-docs-exercise.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp; This activity helped me learn what to look for when tagging text and made the actual coding process much easier and quicker. Completing this task first was especially important for me, because I was unable to tell the difference between em-dashes and hyphens after pasting the text into Oxygen. Had I not completed the Google Docs exercise, I would have likely missed several em-dashes.
 
@@ -15,7 +15,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; I also had to adjust to the autocomplete functionality of Oxygen editor. When I typed out tags, Oxygen would automatically add the closing tag. This would not be an issue if I were creating the text in Oxygen, but because I was pasting the text and then typing the tags I made a few mistakes. Thankfully, it was nothing a quick proofreading could not fix.
 
-![Oxygen editor view of XML code](https://toddmahood.com/images/oxygen_reflection/tei-oxygen-text-view.png)
+![Oxygen editor view of XML code](https://dh.toddmahood.com/images/oxygen_reflection/tei-oxygen-text-view.png)
 
 ## Closing Remarks
 &nbsp;&nbsp;&nbsp;&nbsp; I really enjoyed this project, despite the minor difficulties I faced. I learned about how to encode texts, but also about the importance of encoding texts. Hopefully, I will get a chance to revisit these newly developed skills later in my career.
