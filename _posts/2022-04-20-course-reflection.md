@@ -14,12 +14,12 @@ The assigned readings for this course were always relevant and applicable to wha
 
 ![tweet discussing minimizing harm in visualizations](https://dh.toddmahood.com/images/course_reflection/visualization_ethics_tweet.png)
 
-Ultimately, I enjoyed the readings that I could relate to the most. For me, these were ["Shitty First Drafts"](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) and ["Programming as Literacy"](http://d-scholarship.pitt.edu/37085/1/45veeAnnette.pdf). While these works don't explicitly discuss DH, they provide an important background for anyone in the DH field. They also reassured me as a new student entering the 
+Ultimately, I enjoyed the readings that I could relate to the most. For me, these were ["Shitty First Drafts"](https://wrd.as.uky.edu/sites/default/files/1-Shitty%20First%20Drafts.pdf) and ["Programming as Literacy"](http://d-scholarship.pitt.edu/37085/1/45veeAnnette.pdf). While these works don't explicitly discuss DH, they provide an important background for anyone in the DH field. They also reassured me as a new student entering the DH realm.
 
 Using Twitter was a great way to carry class discussions about the readings. I felt that it relieved some of the pressure of speaking in class and it allowed me to learn a new skill that will be useful after this class. Tweeting after readings was instrumental in helping me get my ideas down before forgetting them and the platform provided different ways to engage with content that aren’t available on traditional discussion platforms such as retweeting and liking. I plan to keep my account active, so it will also play a crucial role in establishing my digital identity moving forward. Finally, the notorious character limit and inability to edit tweets after they are posted really helped me learn how to write in a digital space. 
 
 ## Assignments & Class Activities
-Reviewing projects, writing blogs, and conducting research all helped inform my view of DH. Navigating the Green Book was my first exposure to the use of maps as a tool to convey an argument. My review and blog helped me understand the qualities of a good DH project and inspired ideas for my grant proposal.
+Reviewing projects, writing blogs, and conducting research all helped inform my view of DH. [Navigating the Green Book](https://publicdomain.nypl.org/greenbook-map/index.html) was my first exposure to the use of maps as a tool to convey an argument. My review blog critiquing the project required me to do extensive research to understand the qualities of a good DH project and inspired ideas for my grant proposal.
 
 ![final tweet of the semester](https://dh.toddmahood.com/images/course_reflection/final_tweet.png)
 
