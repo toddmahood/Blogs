@@ -7,12 +7,12 @@ After a semester of studying DH, I have determined that my original definition w
 
 > Digital Humanities is the use of technology to explore information in new ways. Through the construction of interactive experiences, digital humanists are able to educate others and conduct research to answer important questions.
 
-My experience has taught me that there is an emphasis on interactivity and analyzing information in new ways in the field of DH.
+My experience has taught me that there is an emphasis on interactivity and analyzing information in different non-traditional ways in the field of DH.
 
 ## Valuable Readings
 
-##  Coursework
+## Coursework
 
-![final tweet of the semester](https://dh.toddmahood.com/images/course_reflection/final_tweet_space.png)
+![final tweet of the semester](https://dh.toddmahood.com/images/course_reflection/final_tweet.png)
 
 ## Overall Progress
