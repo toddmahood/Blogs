@@ -3,7 +3,7 @@ Like many others, I began the semester with no understanding of the Digital Huma
 
 > Digital Humanities is the use of technology to analyze information in order to answer a question or educate others.
 
-After a semester of studying DH, I have determined that my original definition was lacking a few key ideas. Upon revisiting this past exercise, I came up with the following revised definition.
+After a semester of studying DH, I have determined that my original definition was mostly in accord with what I have seen. Though, it lacks a few key ideas. Upon revisiting this past exercise, I came up with the following revised definition.
 
 > Digital Humanities is the use of technology to explore information in new ways. Through the construction of interactive experiences, digital humanists are able to educate others and conduct research to answer important questions.
 
